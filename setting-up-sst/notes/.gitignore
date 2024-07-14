@@ -9,6 +9,7 @@ node_modules
 .open-next
 
 # misc
+pnpm-lock.yaml
 .DS_Store
 .vscode
 

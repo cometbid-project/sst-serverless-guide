@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "sst": "^2.43.4",
-    "aws-cdk-lib": "2.142.1",
+    "aws-cdk-lib": "2.189.1",
     "constructs": "10.3.0",
     "typescript": "^5.5.3",
     "@tsconfig/node18": "^18.2.4"
